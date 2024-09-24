@@ -1,0 +1,15 @@
+@import url("reset.css");
+.title
+ {color: red;
+}
+.chapter-list {color: blue;
+}
+.chapter {color: blueviolet;
+}
+.chapter-title {color: chartreuse;
+}
+.links {color: brown;
+}
+article p{ 
+	color: coral;
+}
